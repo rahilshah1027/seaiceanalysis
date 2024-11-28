@@ -85,7 +85,7 @@ def plot_dual_axis(data, title):
     return fig
 
 st.set_page_config(layout="wide")
-st.title("Sea Ice Extent and Temperature Anomalies")
+st.title("Comparing Sea Ice Extent and Temperature Anomalies in Northern and Southern Hemispheres")
 
 # Add unit explanation
 st.markdown("""
